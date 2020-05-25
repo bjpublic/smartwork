@@ -12,7 +12,7 @@
 - [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190014977&orderClick=LBY&Kc=)
 - [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241118463)
 
-
+![나만의 스마트워크-입체표지](https://user-images.githubusercontent.com/21074282/82780268-99713080-9e91-11ea-8b71-75dfc2831c94.png)
 
 ## 책 소개
 
